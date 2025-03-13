@@ -24,7 +24,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,jest,go&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,jest,go&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="20%">
