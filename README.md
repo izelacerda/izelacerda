@@ -65,5 +65,5 @@
 </div>  
 <br/><br/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakeliny&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=izelacerda&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izelacerda&theme=radical)
