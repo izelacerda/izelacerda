@@ -32,7 +32,7 @@
 ### <div align="center"> Databases </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,redis&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=2" />
 </p>
 
 </td><td valign="top" width="20%">
