@@ -24,7 +24,7 @@
 ### <div align="center"> Backend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,jest,go&theme=dark&perline=3" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,jest&theme=dark&perline=3" />
 </p>
 
 </td><td valign="top" width="20%">
@@ -32,7 +32,7 @@
 ### <div align="center"> Databases </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=sqlserver,postgres,mongodb,redis&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark&perline=2" />
 </p>
 
 </td><td valign="top" width="20%">
@@ -40,7 +40,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,rabbitmq,docker,vscode&theme=dark&perline=2" />
+<img src="https://skillicons.dev/icons?i=aws,docker,vscode&theme=dark&perline=2" />
 </p>
 
 </td></tr></table>
@@ -49,7 +49,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jakeliny&theme=radical" />
+  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izelacerda&theme=radical" />
 </p>
 <br/><br/>
 
@@ -66,4 +66,4 @@
 <br/><br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jakeliny&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jakeliny&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izelacerda&theme=radical)
