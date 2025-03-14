@@ -1,18 +1,15 @@
 <div style="margin-top:50px"></div>
 
-![Banner](https://raw.githubusercontent.com/jakeliny/jakeliny/c7a88961e1c10e279e2ee0882cd928129f90cb52/images/banner.png)
-
 <div style="margin-bottom:100px"></div>
 
 # 📝About Me
 
-- 🔭 Working as a FullStack Developer for more 30 years.
-- ❤ JavaScript (NodeJS, React, React Native, Express).
-- 🖥 Microservices Architecture (RabbitMQ, Kafka, GRPC)
-- 💾 DataBase Skills (UML, DDL, DML, DQL, DTL)
-- 📫 Email: fael_st@hotmail.com
-
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+
+- 🔭 FrontEnd:  React, JavaScript, TypeScript.
+- 🖥 BackEnd:   NodeJs, Express, .NET .
+- 📫 Mobile:  React Native, Xamarin.
+- 💾 DataBase: Sql Server, PostGres.
 
 <table align="center"><tr><td valign="top" width="30%">
 
