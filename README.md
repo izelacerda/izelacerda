@@ -6,11 +6,8 @@
 
 # 📝About Me
 
-<h3 align="center">I have been a Software developer for 36 years, specializing in ERP systems, with expertise in NodeJS and ReactJS. </h3>
-<br/><br/>
-
-- 🔭 Working with Dev and Analist of Programaing.
-- ❤ JavaScript (NodeJS, React, React Netive, Deno, Angular, Express, Mongoose).
+- 🔭 Working as a FullStack Developer for more 30 years.
+- ❤ JavaScript (NodeJS, React, React Native, Express).
 - 🖥 Microservices Architecture (RabbitMQ, Kafka, GRPC)
 - 💾 DataBase Skills (UML, DDL, DML, DQL, DTL)
 - 📫 Email: fael_st@hotmail.com
