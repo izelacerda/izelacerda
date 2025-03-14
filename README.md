@@ -5,7 +5,7 @@
 # 📝About Me
 
 <h3 align="left">FullStack Software Developer and Team leader guiding teams through all software development phases from requirement gathering and analysis to design, development, testing, and support. Highly knowledgeable in development environments, frontend and backend programming languages, and data architecture</h3>
-<br/><br/>
+<br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Technologies
 
@@ -59,14 +59,14 @@
 </p>
 
 </td></tr></table>
-<br/><br/>
+<br/>
 
 # 📊 GitHub Stats
 
 <p align="center">
   <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izelacerda&theme=radical" />
 </p>
-<br/><br/>
+<br/>
 
 # 📫 Connect With Me
 
@@ -78,7 +78,7 @@
 <img src="https://img.shields.io/badge/mysite-b200ed.svg?&style=for-the-badge&logo=gnometerminal&logoColor=white" alt=mysite style="margin-bottom: 5px;" />
 </a>   
 </div>  
-<br/><br/>
+<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=izelacerda&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izelacerda&theme=radical)
