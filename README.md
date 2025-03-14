@@ -4,12 +4,10 @@
 
 # 📝About Me
 
-# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
+<h3 align="center">I have been a fullstack software developer for +30 years, specializing in ERP systems.</h3>
+<br/><br/>
 
-- 🔭 FrontEnd:  React, JavaScript, TypeScript.
-- 🖥 BackEnd:   NodeJs, Express, .NET .
-- 📫 Mobile:  React Native, Xamarin.
-- 💾 DataBase: Sql Server, PostGres.
+# <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
 <table align="center"><tr><td valign="top" width="30%">
 
