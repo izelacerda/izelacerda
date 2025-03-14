@@ -4,7 +4,7 @@
 
 # 📝About Me
 
-<h3 align="center">I have been a fullstack software developer for +30 years, specializing in ERP systems.</h3>
+<h3 align="left">FullStack Software Developer and Team leader guiding teams through all software development phases from requirement gathering and analysis to design, development, testing, and support. Highly knowledgeable in development environments, frontend and backend programming languages, and data architecture</h3>
 <br/><br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
