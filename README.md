@@ -9,6 +9,12 @@
 <h3 align="center">I have been a Software developer for 36 years, specializing in ERP systems, with expertise in NodeJS and ReactJS. </h3>
 <br/><br/>
 
+- 🔭 Working with Dev and Analist of Programaing.
+- ❤ JavaScript (NodeJS, React, React Netive, Deno, Angular, Express, Mongoose).
+- 🖥 Microservices Architecture (RabbitMQ, Kafka, GRPC)
+- 💾 DataBase Skills (UML, DDL, DML, DQL, DTL)
+- 📫 Email: fael_st@hotmail.com
+
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
 <table align="center"><tr><td valign="top" width="30%">
