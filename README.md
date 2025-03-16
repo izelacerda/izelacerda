@@ -5,7 +5,7 @@
 # 📝About Me
 
 <h3 align="left">I have been a software engineer for over 30 years. I have been involved in all stages of SDLC, communicating with clients, Defining technology, Designing systems, Managing costs and prices, Supervising/Leading teams, and Developing. 
-I have developed an entire ERP system using different technologies,  Android/IOS apps, web modules, and SQL Databases,  basically backend and frontend systems. Using React, Nodejs, .NET, SQL Server, Postgres, and React native.</h3>
+I have developed an entire ERP system using different technologies,  Android/IOS apps, web modules, and SQL Databases,  basically backend and frontend systems, using React, Nodejs, .NET, SQL Server, Postgres, and React native.</h3>
 <br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"/> Technologies
