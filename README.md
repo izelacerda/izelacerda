@@ -62,7 +62,7 @@ I have developed an entire ERP system using different technologies,  Android/IOS
 </td></tr></table>
 <br/>
 
-# 📊 Example ERP Project 
+# 📊 Simple Example ERP Module 
 
 https://github.com/user-attachments/assets/d1d1ee50-3349-48d3-b28a-0323bc62e237
 
