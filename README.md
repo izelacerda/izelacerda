@@ -64,7 +64,7 @@ I have developed an entire ERP system using different technologies,  Android/IOS
 
 # 📊 Example ERP Project 
 
-<a ref="https://mycarejs.com/files/e6fe5aa8173121e1d7d7-My%20Movie.mp4" alt="teste">
+https://github.com/user-attachments/assets/d1d1ee50-3349-48d3-b28a-0323bc62e237
 
 # 📊 GitHub Stats
 
