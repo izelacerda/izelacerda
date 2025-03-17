@@ -62,16 +62,9 @@ I have developed an entire ERP system using different technologies,  Android/IOS
 </td></tr></table>
 <br/>
 
-# 📊 Simple Example ERP Module 
-
+# 📊 Example FrontEnd: React  
+<h4 align="left">     BackEnd: Nodejs/Postgres </h4>
 https://github.com/user-attachments/assets/d1d1ee50-3349-48d3-b28a-0323bc62e237
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=izelacerda&theme=radical" />
-</p>
-<br/>
 
 # 📫 Connect With Me
 
