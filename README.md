@@ -62,6 +62,10 @@ I have developed an entire ERP system using different technologies,  Android/IOS
 </td></tr></table>
 <br/>
 
+# 📊 Example ERP Project 
+
+<a ref="https://mycarejs.com/files/e6fe5aa8173121e1d7d7-My%20Movie.mp4" alt="teste">
+
 # 📊 GitHub Stats
 
 <p align="center">
