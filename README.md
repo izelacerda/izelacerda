@@ -63,9 +63,8 @@ I have developed an entire ERP system using different technologies,  Android/IOS
 <br/>
 
 # 📊 Example FrontEnd: React  
-<h4 align="left">     BackEnd: Nodejs/Postgres </h4>
+<h4 align="left"> The link below shows a short video of the project developed in React and backend Nodejs/Postgres. </h4>
 https://mycarejs.com/files/1c05721c166aab03a91e-mycare.mp4
-
 
 # 📫 Connect With Me
 
